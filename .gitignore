@@ -1,0 +1,4 @@
+./telegraf/telegraf.log
+.venv
+.git
+*.db
